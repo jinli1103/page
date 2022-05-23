@@ -1,0 +1,39 @@
+<html>
+ <head>
+  <title>宸Tail的空間</title>
+ </head>
+ <body background=10.jpg>
+   <img src=top.jpg></img><br>
+<table border=0 width=60%>
+<tr bgcolor=yellow>
+ <td align=left>
+  <a href=https://www.ksvcs.kh.edu.tw>
+<td align=center>自傳</td>
+<td align=center>師長推薦</td>
+<td align=right>學業成績</td>
+</tr>
+<tr bgcolor=green>
+ <td align=left valign=top>得獎紀錄</td>
+ <td align=center valign=top>
+  <img src=01.jpg width=50px></img></td>
+ <td align=center valign=top>個人作品</td>
+ <td align=right valign=bottom>讀書計畫</td>
+</tr>
+<h1><font color=#9393FF 一.生平</h1>
+ <h2>1.學歷</h2>
+<pre>
+<p align="left"
+a.<b>土裡鑽幼兒園<img src=01.png width=100px></img>
+b.<u>地上走</u>國小</b><img src=02.png hight=10%></img>
+c.樹上爬國中
+d.水裡游高中
+e.天上飛大學
+</pre>
+<!--  我是宸Tail  -->
+ <h2>2.經歷</h2>
+<hr>
+ <h1>二.興趣</h1>
+ <h2>1.音樂</h2>
+ <h2>2.嗜好</h2></font>
+ </body>
+</html>
